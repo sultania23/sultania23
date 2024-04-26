@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sultania23
+- On the way to do first things first (very hard but making good progress)
 - 👀 I’m interested in Distributed System
 - 🌱 I’m currently have expertise in Go,AWS,Docker,Terraform & Kubernetes, Machine Learning Platform
 - 💞️ I’m looking to collaborate on Go-Projects & ML projects
