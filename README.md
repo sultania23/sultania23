@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sultania23
 - On the way to do first things first (very hard but making good progress)
-- 👀 I’m interested in Distributed System
-- 🌱 I’m currently have expertise in Go,AWS,Docker,ETL & metaflow,kubeflow,Terraform & Kubernetes, Machine Learning Platform,cloudflare .
+- 👀 I’m interested in Distributed System & data ingress tools .
+- 🌱 I currently have expertise in Go,AWS,Docker,ETL & metaflow,kubeflow,Terraform & Kubernetes, Machine Learning Platform,cloudflare .
 - 💞️ I’m looking to collaborate on Go-Projects & ML projects
 - 📫 How to reach me : pawanyadavsultania@gmail.com
 
